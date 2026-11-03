@@ -22,6 +22,6 @@ void loop()
         Serial.print("DAC Value: ");
         Serial.println(values[i]);
 
-        delay(2000);
+        delay(5000);
     }
 }
