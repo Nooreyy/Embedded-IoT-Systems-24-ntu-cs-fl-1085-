@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 
-#define DAC_PIN 25
+#define DAC_PIN 26
 
 void setup()
 {
